@@ -1,39 +1,45 @@
-# Hi, I'm Sarp AKAR 👋
+Hi, I'm Sarp AKAR 👋
 
-Prospective Molecular Biology Student interested in Marine Science, Bioinformatics, and Artificial Intelligence.
+Prospective Aerospace Engineering Student interested in Science, Technology, Engineering, Artificial Intelligence, and Complex Systems.
 
-## Research Interests
-🧬 Molecular Biology
+Research Interests
 
-🌊 Marine Science
-💻 Bioinformatics
-🤖 Artificial Intelligence in Biology
-🌍 Climate & Conservation Science
-📊 Data Analysis
+🚀 Aerospace Engineering
+✈️ Aviation and Flight Systems
+🤖 Artificial Intelligence
+💻 Programming and Technology
+🌊 Oceanography and Climate Systems
+📊 Data Analysis and Modeling
+🔬 Scientific Research
 
-## Independent Research Portfolio
-- Oceanography and Climate Systems
-- Ocean Conservation Research
-- Biodiversity and Species Protection
-- Marine Mammals: Behavior, Communication and Adaptation
-- Genetics in Everyday Life
-- CRISPR: Can We Edit Life?
-- DNA, Data and Bioinformatics
-- The AI Revolution in Biology
+Featured Research Portfolio
 
-## Current Academic Interests
-- AlphaFold and Protein Structure Prediction
-- Computational Biology
-- Bioinformatics
-- Marine Ecology
-- Conservation Biology
-- Personalized Medicine
-- Machine Learning in Biology
+* The AI Revolution in Biology
+* Oceanography and Climate Systems
+* Ocean Conservation Research
 
-## Future Goals
-- Study Molecular Biology or a related Life Science discipline
-- Participate in interdisciplinary scientific research
-- Combine Biology, Data Science, and Artificial Intelligence
-- Contribute to Marine and Environmental Research
+Engineering Portfolio (In Development)
+* Rocket Trajectory Simulator
+* Gear Train & Power Transmission Calculator
+* Aircraft Wing Lift Calculator
 
 
+Current Academic Interests
+
+* Aerospace Engineering
+* Engineering Design
+* Aviation and Flight Systems
+* Artificial Intelligence
+* Data Analysis and Modeling
+* Computational Thinking
+* Climate and Earth Systems
+* Space Exploration
+
+Future Goals
+
+Study Aerospace Engineering
+Develop engineering, programming, and design skills
+Combine scientific research with technology and innovation
+Contribute to future advancements in aviation and space exploration
+
+Always curious, always learning.
