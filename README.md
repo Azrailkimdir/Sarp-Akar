@@ -12,7 +12,7 @@ Research Interests
 📊 Data Analysis and Modeling
 🔬 Scientific Research
 
-Featured Research Portfolio
+Featured Research Portfolio (In Development)
 
 * The AI Revolution in Biology
 * Oceanography and Climate Systems
@@ -32,7 +32,7 @@ Current Academic Interests
 * Artificial Intelligence
 * Data Analysis and Modeling
 * Computational Thinking
-* Climate and Earth Systems
+* Climate and Earth Systems Modeling
 * Space Exploration
 
 Future Goals
@@ -41,5 +41,6 @@ Study Aerospace Engineering
 Develop engineering, programming, and design skills
 Combine scientific research with technology and innovation
 Contribute to future advancements in aviation and space exploration
+Apply data, modeling, and engineering principles to solve real-world challenges
 
 Always curious, always learning.
