@@ -1,46 +1,48 @@
-Hi, I'm Sarp AKAR 👋
+Hi, I'm Sarp AKAR 
 
-Prospective Aerospace Engineering Student interested in Science, Technology, Engineering, Artificial Intelligence, and Complex Systems.
+I am a Grade 12 student at ODTÜ Development Foundation Schools with a strong interest in science, technology, engineering, and research.
 
-Research Interests
+My academic interests first grew through Biology, marine science, and environmental research. Over time, my curiosity expanded toward engineering, aviation, space science, and technology as I became increasingly interested in understanding how complex systems work and how different scientific fields connect with one another.
 
-🚀 Aerospace Engineering
-✈️ Aviation and Flight Systems
-🤖 Artificial Intelligence
-💻 Programming and Technology
-🌊 Oceanography and Climate Systems
-📊 Data Analysis and Modeling
-🔬 Scientific Research
+Today, I am particularly interested in:
 
-Featured Research Portfolio (In Development)
+- Aerospace Engineering
+- Aviation and Flight Systems
+- Engineering Design
+- Artificial Intelligence
+- Programming and Technology
+- Data Analysis and Modeling
+- Astronomy and Space Science
+- Scientific Research
 
-* The AI Revolution in Biology
-* Oceanography and Climate Systems
-* Ocean Conservation Research
+To explore these interests, I develop independent projects that combine science, mathematics, engineering, and data analysis.
 
-Engineering Portfolio (In Development)
-* Rocket Trajectory Simulator
-* Gear Train & Power Transmission Calculator
-* Aircraft Wing Lift Calculator
+Recent projects include:
 
+Quantitative Thinking Series
+--
+Why Is 45° So Important?
+How Much Would You Weigh on Earth, Moon, and Mars?
+Why Do Aircraft Wings Produce Lift?
+Would a Projectile Travel Farther on the Moon?
 
-Current Academic Interests
+Engineering Projects ( Planned )
+--
+Rocket Trajectory Simulator
+Aircraft Wing Lift Calculator
+Gear Train & Power Transmission Calculator
 
-* Aerospace Engineering
-* Engineering Design
-* Aviation and Flight Systems
-* Artificial Intelligence
-* Data Analysis and Modeling
-* Computational Thinking
-* Climate and Earth Systems Modeling
-* Space Exploration
+Research & Citizen Science
+--
+- NASA Space Apps Challenge
+- NASA Aerospace Learning Series
+- International Astronomical Search Collaboration (IASC)
+- NASA Citizen Science Projects
+- iNaturalist Citizen Science
 
-Future Goals
+Through these experiences, I continue developing skills in research, problem-solving, quantitative analysis, programming, engineering design, and scientific communication.
 
-Study Aerospace Engineering
-Develop engineering, programming, and design skills
-Combine scientific research with technology and innovation
-Contribute to future advancements in aviation and space exploration
-Apply data, modeling, and engineering principles to solve real-world challenges
+My long-term goal is to continue learning, building, and exploring opportunities in aerospace engineering, technology, and scientific research while contributing to future innovation.
 
-Always curious, always learning.
+Always curious. Always learning.
+
