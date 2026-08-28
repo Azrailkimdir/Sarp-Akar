@@ -28,9 +28,9 @@ Quantitative Thinking Series
 
 Engineering Projects ( Planned )
 --
-Rocket Trajectory Simulator
-Aircraft Wing Lift Calculator
-Gear Train & Power Transmission Calculator
+- Rocket Trajectory Simulator
+- Aircraft Wing Lift Calculator
+- Gear Train & Power Transmission Calculator
 
 Research & Citizen Science
 --
