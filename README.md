@@ -21,10 +21,10 @@ Recent projects include:
 
 Quantitative Thinking Series
 --
-Why Is 45° So Important?
-How Much Would You Weigh on Earth, Moon, and Mars?
-Why Do Aircraft Wings Produce Lift?
-Would a Projectile Travel Farther on the Moon?
+- Why Is 45° So Important?
+- How Much Would You Weigh on Earth, Moon, and Mars?
+- Why Do Aircraft Wings Produce Lift?
+- Would a Projectile Travel Farther on the Moon?
 
 Engineering Projects ( Planned )
 --
