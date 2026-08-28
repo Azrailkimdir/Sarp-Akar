@@ -26,7 +26,7 @@ Quantitative Thinking Series
 - Why Do Aircraft Wings Produce Lift?
 - Would a Projectile Travel Farther on the Moon?
 
-Engineering Projects ( Planned )
+Engineering Projects
 --
 - Rocket Trajectory Simulator
 - Aircraft Wing Lift Calculator
@@ -38,6 +38,10 @@ Research & Citizen Science
 - NASA Aerospace Learning Series
 - International Astronomical Search Collaboration (IASC)
 - NASA Citizen Science Projects
+  - GLOBE Observer
+  - Clear Skies - Kiruna
+  - The Daily Minor Planet
+  - Space Warps – ESA Euclid
 - iNaturalist Citizen Science
 
 Through these experiences, I continue developing skills in research, problem-solving, quantitative analysis, programming, engineering design, and scientific communication.
